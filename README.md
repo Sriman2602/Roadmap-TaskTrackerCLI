@@ -16,12 +16,8 @@ A simple Python script to manage task using a JSON file for storage.
 2. Save the script as `app.py`.
 3. Run the program:
    ```bash
-   python main.py
+   python app.py
    ```
-
-## Example Usage
-1. Add a note by entering a title and content.
-2. View all notes stored in the JSON file.
-
+   
 ## Requirements
 - Python 3.x
