@@ -1,9 +1,9 @@
 # JSON Notes App
 
-A simple Python script to manage notes using a JSON file for storage.
+A simple Python script to manage task using a JSON file for storage.
 
 ## Features
-- Add new notes with title and content.
+- Add new task with description.
 - View all stored notes.
 - Store notes in a JSON file for persistence.
 
