@@ -1,0 +1,90 @@
+[
+    {
+        "status": "done",
+        "createdAt": "2025-08-11 10:45:32",
+        "updatedAt": "2025-08-11 10:47:15",
+        "task": "Buy Gift and wrap it",
+        "description": "Toycar or book",
+        "id": 1
+    },
+    {
+        "status": "todo",
+        "createdAt": "2025-08-11 10:50:01",
+        "updatedAt": "2025-08-11 11:00:48",
+        "task": "Write anniversary card",
+        "description": "Include a personal message",
+        "id": 2
+    },
+    {
+        "status": "done",
+        "createdAt": "2025-08-11 10:50:02",
+        "updatedAt": "2025-08-11 11:40:53",
+        "task": "Order cake",
+        "description": "Chocolate flavor with sprinkles",
+        "id": 3
+    },
+    {
+        "status": "in-progress",
+        "createdAt": "2025-08-11 10:50:03",
+        "updatedAt": "",
+        "task": "Book restaurant table",
+        "description": "Reserve for 6 people at 7 PM",
+        "id": 4
+    },
+    {
+        "status": "done",
+        "createdAt": "2025-08-11 10:50:04",
+        "updatedAt": "",
+        "task": "Buy balloons",
+        "description": "Blue, red, and yellow colors",
+        "id": 5
+    },
+    {
+        "status": "done",
+        "createdAt": "2025-08-11 10:50:06",
+        "updatedAt": "",
+        "task": "Prepare music playlist",
+        "description": "Mix of retro and modern songs",
+        "id": 7
+    },
+    {
+        "status": "in-progress",
+        "createdAt": "2025-08-11 10:50:07",
+        "updatedAt": "",
+        "task": "Arrange transportation",
+        "description": "Book cab for guests from station",
+        "id": 8
+    },
+    {
+        "status": "done",
+        "createdAt": "2025-08-11 10:50:08",
+        "updatedAt": "",
+        "task": "Buy candles",
+        "description": "Number-shaped candles for age",
+        "id": 9
+    },
+    {
+        "status": "in-progress",
+        "createdAt": "2025-08-11 10:50:09",
+        "updatedAt": "",
+        "task": "Confirm guest list",
+        "description": "Call and confirm attendance",
+        "id": 10
+    },
+    {
+        "status": "todo",
+        "createdAt": "2025-08-11 10:50:10",
+        "updatedAt": "",
+        "task": "Clean party area",
+        "description": "Ensure space is tidy before guests arrive",
+        "id": 11
+    },
+    {
+        "status": "todo",
+        "createdAt": "2025-08-11 11:47:08",
+        "updatedAt": "",
+        "task": "Buy phone",
+        "description": "New phone for your brother",
+        "id": 12
+    }
+]
