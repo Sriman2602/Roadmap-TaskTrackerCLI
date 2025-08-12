@@ -1,4 +1,4 @@
-# JSON Notes App
+# TASK TRACKER CLI
 
 A simple Python script to manage task using a JSON file for storage.
 
